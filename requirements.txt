@@ -1,0 +1,8 @@
+opencv-python
+pillow
+torch
+torchvision
+torchaudio
+transformers
+datasets
+git+https://github.com/Aakash-Tripathi/mlb-yt-dataset
